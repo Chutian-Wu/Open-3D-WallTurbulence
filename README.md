@@ -7,7 +7,7 @@ X-Z pencil MPI parallel strategy
 Load toml config file
 
 # Future work
-- [] upload testing cases of $Re_\tau=180$ turbulent channel flow
-- [] update functions including continued calculation
-- [] upload passive or active scalar equations
-- [] upload rotating forcing
+- [ ] upload testing cases of $Re_\tau=180$ turbulent channel flow
+- [ ] update functions including continued calculation
+- [ ] upload passive or active scalar equations
+- [ ] upload rotating forcing
