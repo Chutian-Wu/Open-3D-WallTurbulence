@@ -9,6 +9,6 @@
 # Future work
 - [ ] upload testing cases of $Re_\tau=180$ turbulent channel flow
 - [ ] update functions including continued calculation
-- [ ] upload passive or active scalar equations
-- [ ] upload rotating forcing
-- [ ] upload free-slip wall and moving-wall boundary conditions
+- [ ] update passive or active scalar equations
+- [ ] update rotating forcing
+- [ ] update free-slip wall and moving-wall boundary conditions
