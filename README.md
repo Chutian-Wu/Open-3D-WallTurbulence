@@ -11,3 +11,4 @@
 - [ ] update functions including continued calculation
 - [ ] upload passive or active scalar equations
 - [ ] upload rotating forcing
+- [ ] upload free-slip wall and moving-wall boundary conditions
