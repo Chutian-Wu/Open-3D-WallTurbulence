@@ -13,4 +13,4 @@
 - [ ] update rotating forcing
 - [ ] update free-slip wall and moving-wall boundary conditions
 
-![$Re_\tau=550$ channel turbulence snapshot](Retau-550.png)
+![](Retau-550.png "$Re_\tau=550$ channel turbulence snapshot")
