@@ -12,3 +12,5 @@
 - [ ] update passive or active scalar equations
 - [ ] update rotating forcing
 - [ ] update free-slip wall and moving-wall boundary conditions
+
+![$Re_\tau=550$ channel turbulence snapshot](Retau-550.png)
