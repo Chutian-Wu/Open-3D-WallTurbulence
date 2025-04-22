@@ -1,0 +1,17 @@
+# physics
+nu = 3.571428571428571e-4 # kinetic viscosity
+# CFD
+dt = 2.0e-3 # time step size
+dkx = 0.25 # Lx=2*pi/dkx
+dkz = 0.5 # Lz=2*pi/dkx
+NX = 320 # number of cells in x direction
+NY = 160 # number of cells in y direction
+NZ = 320 # number of cells in z direction
+alpha_mesh = 2.0 # the de-sigularity size of mesh y=tanh(alpha eta)/tanh(alpha)
+NT = 100000 # number of time steps
+initial_condition = 1 # 1 - "laminar only", 2 - "laminar perturbation", 3 - "renewal"
+# MPI
+PX = 16  # number of processors in x direction
+PZ = 8 # number of processors in z direction
+# IO
+save_interval = 500 # save results every $(save_interval) time steps
